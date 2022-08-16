@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/GLAugust22/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/GLAugust22/Data/**" />
+		<Compile Remove="$(PkgPath)/GLAugust22/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/GLAugust22/Schemas\**" />
+		<Compile Remove="$(PkgPath)/GLAugust22/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GLAugust22/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GLAugust22/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GLAugust22/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GLAugust22/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/GLAugust22/Resources/**" />
+		<None Remove="$(PkgPath)/GLAugust22/Assemblies/**" />
+		<None Remove="$(PkgPath)/GLAugust22/Data/**" />
+		<None Remove="$(PkgPath)/GLAugust22/SqlScripts/**" />
+		<None Remove="$(PkgPath)/GLAugust22/Schemas/**" />
+		<None Remove="$(PkgPath)/GLAugust22/Resources/**" />
+  </ItemGroup>
+</Project>
