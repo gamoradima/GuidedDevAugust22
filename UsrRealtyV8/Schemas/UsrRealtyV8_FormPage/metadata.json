@@ -1,0 +1,29 @@
+= MetaData.Schema.UId "417f7c33-1245-420a-939e-b2b9c17dcbe4"
+= MetaData.Schema.A2 "UsrRealtyV8_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "e26b449e-6a33-7f49-e1e6-688a951d0070",
+  "A2": "NumberInput_tfdqx9k_tooltip",
+  "A3": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A4": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A5": "3d0dd14c-24e9-4f2d-a2b0-f4c0883a93ae"
+}
++ MetaData.Schema.B2 {
+  "UId": "0e426b7a-19ad-279c-2100-3c99c95c8a01",
+  "A2": "NumberInput_tfdqx9k_placeholder",
+  "A3": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A4": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A5": "3d0dd14c-24e9-4f2d-a2b0-f4c0883a93ae"
+}
++ MetaData.Schema.B2 {
+  "UId": "e858784f-b82e-a3c2-89cf-7ef0c6bda261",
+  "A2": "Button_0mkp697_caption",
+  "A3": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A4": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+  "A5": "3d0dd14c-24e9-4f2d-a2b0-f4c0883a93ae"
+}
+~ MetaData.Schema.B2 ["e26b449e-6a33-7f49-e1e6-688a951d0070","0e426b7a-19ad-279c-2100-3c99c95c8a01","e858784f-b82e-a3c2-89cf-7ef0c6bda261"]
+= MetaData.Schema.B6 "ceb20401-c3f5-4dcc-b4fd-fb5e01680af1"
+= MetaData.Schema.HD1 "0f8eb896-7b62-4dfa-bd55-a414f50932a7"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

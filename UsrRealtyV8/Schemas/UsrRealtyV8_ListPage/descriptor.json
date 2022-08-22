@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1136ed3b-4152-4984-b7c1-f182785a99c5",
+    "Name": "UsrRealtyV8_ListPage",
+    "ModifiedOnUtc": "\/Date(1660834061000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Version 8 list page",
+    "DependsOn": []
+  }
+}

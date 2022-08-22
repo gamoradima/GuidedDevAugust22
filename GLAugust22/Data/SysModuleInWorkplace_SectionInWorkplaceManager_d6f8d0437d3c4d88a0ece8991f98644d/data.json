@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d6f8d043-7d3c-4d88-a0ec-e8991f98644d"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "7196040b-b04c-4c3d-b04d-72d814997f19",
+          "DisplayValue": "Sales"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "1fffa5a6-d527-4050-bbc0-220cee9216ef",
+          "DisplayValue": "Realty"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 26
+        }
+      ]
+    }
+  ]
+}

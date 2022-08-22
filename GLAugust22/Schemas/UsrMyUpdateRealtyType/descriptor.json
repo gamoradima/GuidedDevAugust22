@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "60069b06-0de2-4bd4-9d43-cdb02edd0854",
+    "Name": "UsrMyUpdateRealtyType",
+    "ModifiedOnUtc": "\/Date(1660922237000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Update realty type",
+    "DependsOn": []
+  }
+}

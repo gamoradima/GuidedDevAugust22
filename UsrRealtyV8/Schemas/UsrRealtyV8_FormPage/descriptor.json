@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "417f7c33-1245-420a-939e-b2b9c17dcbe4",
+    "Name": "UsrRealtyV8_FormPage",
+    "ModifiedOnUtc": "\/Date(1660892809000)\/",
+    "Parent": {
+      "UId": "0f8eb896-7b62-4dfa-bd55-a414f50932a7",
+      "Name": "PageWithLeftAreaTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty Version 8 form page",
+    "DependsOn": []
+  }
+}

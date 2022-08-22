@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "faafb796-88c7-4512-9943-7311e3daa3f9",
+    "Name": "AccountSectionV2",
+    "ModifiedOnUtc": "\/Date(1660835061000)\/",
+    "Parent": {
+      "UId": "65bb2306-7314-4605-a863-04a410798497",
+      "Name": "AccountSectionV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Accounts\""
+  }
+}

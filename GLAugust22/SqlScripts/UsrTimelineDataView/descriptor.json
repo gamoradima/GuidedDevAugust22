@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "44d1fdc3-1be5-983e-55c8-34a4758cc939",
+    "Name": "UsrTimelineDataView",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1660752398000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

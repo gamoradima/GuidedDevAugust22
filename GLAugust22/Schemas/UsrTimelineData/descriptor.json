@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "18b18db0-87e3-4e12-a61b-1d04ac827857",
+    "Name": "UsrTimelineData",
+    "ModifiedOnUtc": "\/Date(1660752212000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Timeline Data",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty Version 8 form page" />
+			<Item Name="LocalizableStrings.Button_0mkp697_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.NumberInput_tfdqx9k_placeholder.Value" Value="area in square metre" />
+			<Item Name="LocalizableStrings.NumberInput_tfdqx9k_tooltip.Value" Value="Tooltip example" />
+		</Items>
+	</Group>
+</Resources>
