@@ -110,7 +110,31 @@ define("UsrRealty1Page", ["RightUtilities"], function(RightUtilities) {
 				}
 			}
 		}/**SCHEMA_BUSINESS_RULES*/,
+		messages: {
+			"GetRealtySkillId": {
+        		mode: Terrasoft.MessageMode.PTP,
+        		direction: Terrasoft.MessageDirectionType.SUBSCRIBE
+		    },
+		},
+
 		methods: {
+			init: function() {
+				this.callParent(arguments);
+				// Registering of messages
+				this.sandbox.registerMessages(this.messages);
+				this.sandbox.subscribe("GetRealtySkillId", this.getRealtySkillData, this, []);
+			},
+			getRealtySkillData: function() {
+				this.console.log("Message subscriber called. Try to get skillid");
+				var skillObject = this.get("UsrPrimarySkill");
+				var skillId = null;
+				if (skillObject) {
+					skillId = skillObject.value;
+				}
+				return skillId;
+			},
+			
+			
 			positiveValueValidator: function(value, column) {
 				var msg = "";
 				if (value < 0) {
@@ -350,6 +374,25 @@ define("UsrRealty1Page", ["RightUtilities"], function(RightUtilities) {
 				"parentName": "Header",
 				"propertyName": "items",
 				"index": 3
+			},
+			{
+				"operation": "insert",
+				"name": "LOOKUPd14b7acf-1d35-4945-bed3-eabd5c27df53",
+				"values": {
+					"layout": {
+						"colSpan": 12,
+						"rowSpan": 1,
+						"column": 0,
+						"row": 2,
+						"layoutName": "Header"
+					},
+					"bindTo": "UsrPrimarySkill",
+					"enabled": true,
+					"contentType": 3
+				},
+				"parentName": "Header",
+				"propertyName": "items",
+				"index": 4
 			},
 			{
 				"operation": "insert",

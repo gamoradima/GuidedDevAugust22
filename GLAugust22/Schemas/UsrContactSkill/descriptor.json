@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8f71bd3f-4c52-48fe-b296-934d83971133",
+    "Name": "UsrContactSkill",
+    "ModifiedOnUtc": "\/Date(1661169271000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Contact Skill",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Decimal Output Page" />
+			<Item Name="LocalizableStrings.Button1ButtonCaption.Value" Value="FINALLY WE HAVE IT" />
+			<Item Name="Parameters.7c7dbcb7-31c4-4dbb-924c-86eda101716b.Caption" Value="Average Price, USD" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.ffeb4757-15d2-4d6d-ba4a-bc7ee8588757.Caption" Value="FINALLY WE HAVE IT" />
+		</Items>
+	</Group>
+</Resources>
